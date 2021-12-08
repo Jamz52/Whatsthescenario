@@ -5,4 +5,5 @@ super interesting
     <Some interesting scenario steps here>
     <do this> 
     <do that>
-    sleed
+    sleep
+    then wake up
